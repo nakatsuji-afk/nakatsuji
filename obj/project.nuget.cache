@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8mOHDjUpl9rJ10xLWVi266OcYa7Gnqz77JBSUW69F0/mYRc4TRbJ6QsGnJsbcMQlskxMkQbOXWp2nYEgy4tHSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hokka\\source\\repos\\kkkk\\kkkk.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hokka\\.nuget\\packages\\alea\\3.0.4\\alea.3.0.4.nupkg.sha512",
+    "C:\\Users\\hokka\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}
